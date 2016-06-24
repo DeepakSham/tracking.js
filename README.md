@@ -31,7 +31,10 @@ npm install tracking
 
 ## Features
 
+
+
 * [Trackers](http://trackingjs.com/docs.html#trackers)
+  * [Brief Tracker](https://github.com/DeepakSham/tracking.js/blob/master/examples/brief.html)
   * [Color Tracker](http://trackingjs.com/docs.html#color-tracker)
   * [Object Tracker](http://trackingjs.com/docs.html#object-tracker)
 * [Utilities](http://trackingjs.com/docs.html#utilities)
